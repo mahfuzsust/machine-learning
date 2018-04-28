@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f602205-11b5-435f-b653-f1c7ea135803" name="Default" comment="" />
+    <list default="true" id="9f602205-11b5-435f-b653-f1c7ea135803" name="Default" comment="">
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Cricinfo Live Scores.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Cricinfo Live Scores_files/global.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Cricinfo Live Scores_files/subscribe.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Cricinfo Live Scores_files/subscribe.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Cricinfo Live Scores_files/subscribe_002.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/CrowdFlower_DataScienceReport_2016.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Day 3 - 22 Sep 2017/Day 3 - 22 Sep 2017/Structural/1. P. AdapterExercise/AdapterExercise/DataAdapter.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Day 3 - 22 Sep 2017/Day 3 - 22 Sep 2017/Structural/1. P. AdapterExercise/AdapterExercise/ISqlDataReadable.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/GUB-CV-format.pages" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/June.xls" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/RealTimeWebChat" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Test.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/Working With IndexedDB - Envato Tuts+ Code Tutorial.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/a.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/architecture/Day 1 Code/EventDrivenApp/EventDrivenApp/EventDrivenApp/FileSaver.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/complete guide_higher studeis in America.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/hwapp/hwapp.userprefs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/intro" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/intro.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/livematches.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/name.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/nullobjectsampleproblem/nullobjectsampleproblem/NullObjectSample/EmployeeAbstract.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/nullobjectsampleproblem/nullobjectsampleproblem/NullObjectSample/NullEmployee.cs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/personal-site" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/শোনাতে এসেছি কিছু গল্প ... ... : GRE and TOEFL – Explanation and Strategy.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PracticeApplication/PracticeApplication/Virtualization/CombatShip.cs" afterPath="$PROJECT_DIR$/../PracticeApplication/PracticeApplication/Virtualization/CombatShip.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PracticeApplication/PracticeApplication/Virtualization/SpaceShip.cs" afterPath="$PROJECT_DIR$/../PracticeApplication/PracticeApplication/Virtualization/SpaceShip.cs" />
+    </list>
     <ignored path="Machine Learning.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -26,14 +57,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gbpusd.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gbpusd.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Prediction/Forex/GBPUSD/gbpusd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3990025">
+            <state vertical-scroll-proportion="0.0">
               <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.40447763">
+              <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,6 +97,7 @@
         <option value="$PROJECT_DIR$/Unsupervised/Flat/main.py" />
         <option value="$PROJECT_DIR$/Unsupervised/Hierarchical/main.py" />
         <option value="$PROJECT_DIR$/Prediction/Forex/GBPUSD/gbpusd.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -507,11 +549,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prediction/Forex/GBPUSD/gbpusd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3990025">
+        <state vertical-scroll-proportion="0.0">
           <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40447763">
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
